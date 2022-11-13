@@ -1,1 +1,4 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9309387&assignment_repo_type=AssignmentRepo)
+ # how to prepare for IT jop market ?!
+ I listened to lecture about **  how to prepare for IT jop market **
+ and i gined important information, so i summarized some information in this file.
+ [الاستعداد لسوق العمل.pdf](https://github.com/psau-edu-sa/se3131-article-Hajarabdullh/files/9998046/default.pdf)
